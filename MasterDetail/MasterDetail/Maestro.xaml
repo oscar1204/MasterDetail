@@ -4,9 +4,7 @@
              x:Class="MasterDetail.Maestro">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Soy El Maestro"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
